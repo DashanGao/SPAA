@@ -7,7 +7,7 @@ In this project, we propose an approach to harness the SPA attack via learning t
 
 -------
 
-### Data Pro-processing
+### Data Pre-processing
 
 MNIST-ROT dataset generation: run `adv_defence/process_mnist_rot.py`
 
