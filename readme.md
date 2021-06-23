@@ -29,3 +29,5 @@ python main.py --dataset mnist_rot --f_pretrain True --save_step 100 \
 --adv_loss_lambda 0.1 --g_msp_lambda 0.0001 --g_vae_lambda 0.0 \
 --g_rec_lambda 0.001 --comment Rece-3Adv01Mspe-4
 ```
+
+All
