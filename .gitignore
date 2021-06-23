@@ -1,0 +1,9 @@
+datasets/
+evaluation/
+evaluation.zip
+pretrained_models/
+logs/
+archive_logs/
+__pycache__/
+*.py[cod]
+.old_git/
